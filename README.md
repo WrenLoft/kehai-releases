@@ -1,6 +1,6 @@
-# Kehai Companion
+# Kehai Companions
 
-Kehai Companion puts a character on your desktop who talks with you, remembers you between
+Kehai Companions puts a character on your desktop who talks with you, remembers you between
 chats, and (if you let them) can see what is on your screen. It runs on your own PC: with the
 models it downloads for you, your chats, memories and screenshots never leave it.
 
@@ -23,11 +23,11 @@ work with games and character cards made for adults.
 
 ## Install
 
-1. Download `KehaiCompanion_<version>_x64-setup.exe` from the
+1. Download `KehaiCompanions_<version>_x64-setup.exe` from the
    [releases page](https://github.com/WrenLoft/kehai-releases/releases/latest) and run it.
    No administrator rights are needed.
 2. Read and accept the license agreement.
-3. It installs into a "Kehai Companion" folder in your user folder (you can pick another).
+3. It installs into a "Kehai Companions" folder in your user folder (you can pick another).
 4. Tick "Run" on the last page, or start it from the Start menu or the desktop shortcut.
 
 Windows may say "Windows protected your PC" because the installer isn't signed with a paid
@@ -68,7 +68,7 @@ you turn them on.
 | Move them | Drag the character anywhere on your desktop. |
 | Resize them | Scroll over the character. |
 | Turn them | Drag with the middle mouse button. |
-| Pat their head | Click the head. |
+| Pat their head | Hold Alt over the head for the hand, then press and rub. |
 | Open the Nav Menu | Right-click the character: the Control Panel's tabs (Talk, Mind, Body, Wardrobe, Scene, Permissions), Characters, Rooms, Models, Settings, Show metrics, Hide to tray, Quit. |
 | Find them again | Use the tray icon: show or hide, Control Panel, reset size and position, Characters, Rooms, Settings, Quit. |
 | Push to talk | Turn on dictation, then push to talk in Settings > Voice. Hold the backtick key (`) in any app and speak. |
@@ -98,7 +98,7 @@ installs the update and opens again. Your characters, chats and memories are kep
 
 Settings > Help & about > Troubleshooting has **Open logs folder** and **Copy report info**.
 When you report a problem on the Discord, paste the report info and mention the build number at
-the bottom of Help & about (for example "Kehai Companion 0.1.24 (Public)"). Logs leave out what
+the bottom of Help & about (for example "Kehai Companions 1.0.0 (Public)"). Logs leave out what
 you said in chats unless you turn on Detailed logs there.
 
 ## Uninstalling
@@ -110,7 +110,7 @@ Koikatsu". You can also remove it at any time from Settings > Avatar > Koikatsu.
 
 ## License
 
-Kehai Companion is free to use, by WrenLoft, under its end user license agreement (shown by the
+Kehai Companions is free to use, by WrenLoft, under its end user license agreement (shown by the
 installer, and in Settings > Help & about > License). It is not open source. The libraries it
 is built with, and the extras it can download, each come under their own licenses, listed in
 Help & about.

@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "notes": "Kehai Companions 1.0.0",
+  "pub_date": "2026-10-09T19:58:55Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdWwvck9IeDU0OXVDWDB5S2hPQkhhV3krVFJ3UnphckhkdjRwZkNlRnZhbjJSVkpsbkYrUjhLQXVEVWREQUNzbHB4eWhCaWNDUUFjemhDQWRrclpNMnQrdTZhRXBKRlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTc1OTM0CWZpbGU6S2VoYWkgQ29tcGFuaW9uc18xLjAuMF94NjQtc2V0dXAuZXhlCjROR2w2ZVIxVU1IYkcxdlRrN0locC9rZzFBTEpiWHMxQTVqbVEvSStQTEFvanNaN1ZFNVNvRVc2YlVVZTZTam1vY0lyWEt3QmdFaTl0aFN5NTJoS0R3PT0K",
+      "url": "https://github.com/WrenLoft/kehai-releases/releases/download/1.0.0/KehaiCompanions_1.0.0_x64-setup.exe"
+    }
+  }
+}
