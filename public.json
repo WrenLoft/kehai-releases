@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1",
-  "notes": "Fixes characters not loading when a Studio startup-scene plugin (like AutoLoader) is installed, and Kehai now notices if Koikatsu freezes.",
-  "pub_date": "2026-10-10T04:46:08Z",
+  "version": "1.0.2",
+  "notes": "Fixes installing the language model, voice and dictation onto exFAT drives.",
+  "pub_date": "2026-10-10T16:58:19Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdWwvck9IeDU0OW9VTTNxbExkTUw3TzZaSzI1NjVUVGROWkp4MU5UZmNUakpqcnovakxTUHNWaHFXV0xmbk95d2FFb29ET2hVLzVsWnBnWTRBNnJ6V0ZNSnpjT3FTZWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjA3NTYwCWZpbGU6S2VoYWkgQ29tcGFuaW9uc18xLjAuMV94NjQtc2V0dXAuZXhlCjF6WSswamRBcXFMRko4TlhkdWRkYWlmWFRwWXViMVlaYy8vZkNUUGJvS1FRS3pORE1WRmsyb3FWUFhSVHJYS2Z0TWVGUTFTeGZPUEViL3F4UHZ5MUJBPT0K",
-      "url": "https://github.com/WrenLoft/kehai-releases/releases/download/1.0.1/KehaiCompanions_1.0.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdWwvck9IeDU0OWh2QnFhNFZYaCtscEllTmNITlFnY1RTREhxRHVVaEhsd0VNMk9aR0E5WU9McWZaVm5uT3BPaEc4SzM0b1V1ekxBaFJJdStOWk9halpLYzAvd3VFbXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjUxMzQ5CWZpbGU6S2VoYWkgQ29tcGFuaW9uc18xLjAuMl94NjQtc2V0dXAuZXhlCmY4M3V2a1J0UlN2OXFneTJMTUFHdERjbENyeVQ1UXMxVzdVcERPd28wQmk2eDdhQXhtMUtHc0ZtZUJ3SVlzbk1DQ2NPZVZZME90ZFM3NXptQ2hMZEJBPT0K",
+      "url": "https://github.com/WrenLoft/kehai-releases/releases/download/1.0.2/KehaiCompanions_1.0.2_x64-setup.exe"
     }
   }
 }
