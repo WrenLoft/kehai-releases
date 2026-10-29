@@ -1,11 +1,11 @@
 {
-  "version": "1.0.2",
-  "notes": "Fixes installing the language model, voice and dictation onto exFAT drives.",
-  "pub_date": "2026-10-10T16:58:19Z",
+  "version": "1.0.26",
+  "notes": "Smoother characters (anti-aliasing stays on), a frozen Koikatsu can no longer lock up your screen, better defaults on several monitors, and Duplicate can copy or rename a character's mind.",
+  "pub_date": "2026-10-29T16:51:52Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdWwvck9IeDU0OWh2QnFhNFZYaCtscEllTmNITlFnY1RTREhxRHVVaEhsd0VNMk9aR0E5WU9McWZaVm5uT3BPaEc4SzM0b1V1ekxBaFJJdStOWk9halpLYzAvd3VFbXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjUxMzQ5CWZpbGU6S2VoYWkgQ29tcGFuaW9uc18xLjAuMl94NjQtc2V0dXAuZXhlCmY4M3V2a1J0UlN2OXFneTJMTUFHdERjbENyeVQ1UXMxVzdVcERPd28wQmk2eDdhQXhtMUtHc0ZtZUJ3SVlzbk1DQ2NPZVZZME90ZFM3NXptQ2hMZEJBPT0K",
-      "url": "https://github.com/WrenLoft/kehai-releases/releases/download/1.0.2/KehaiCompanions_1.0.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdWwvck9IeDU0OWt3aS9vRzFvTnVLUDFQMHYrejQ5c0xxeVNyMUJoNEUxOHZaNzRTZnQ5NXRZT3F2c2RvWkxVTjBrY1pqQ251Y3JrYzBnUFdmKytocURKZlhGRHlBNlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjkyNjk4CWZpbGU6S2VoYWkgQ29tcGFuaW9uc18xLjAuMjZfeDY0LXNldHVwLmV4ZQpJT0xXdERiNU51Njg5cjNUY0FjdTVXRTlMYklWQ1NEa3BHY2VXSVd5ZE9NWm1UOGc0OEJXT1RWaUFzQWE2emtSWUJ6L0hBTEhBdjhPdkpnTXZpTWlCZz09Cg==",
+      "url": "https://github.com/WrenLoft/kehai-releases/releases/download/1.0.26/KehaiCompanions_1.0.26_x64-setup.exe"
     }
   }
 }
