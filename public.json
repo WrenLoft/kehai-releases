@@ -1,11 +1,11 @@
 {
-  "version": "1.0.26",
-  "notes": "Smoother characters (anti-aliasing stays on), a frozen Koikatsu can no longer lock up your screen, better defaults on several monitors, and Duplicate can copy or rename a character's mind.",
-  "pub_date": "2026-10-29T16:51:52Z",
+  "version": "1.0.27",
+  "notes": "Anti-aliasing is now a setting (Settings > Avatar > Anti-aliasing: off, 2x, 4x or 8x), 2x by default instead of 8x, for smoother performance on more graphics cards.",
+  "pub_date": "2026-10-29T23:28:30Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdWwvck9IeDU0OWt3aS9vRzFvTnVLUDFQMHYrejQ5c0xxeVNyMUJoNEUxOHZaNzRTZnQ5NXRZT3F2c2RvWkxVTjBrY1pqQ251Y3JrYzBnUFdmKytocURKZlhGRHlBNlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjkyNjk4CWZpbGU6S2VoYWkgQ29tcGFuaW9uc18xLjAuMjZfeDY0LXNldHVwLmV4ZQpJT0xXdERiNU51Njg5cjNUY0FjdTVXRTlMYklWQ1NEa3BHY2VXSVd5ZE9NWm1UOGc0OEJXT1RWaUFzQWE2emtSWUJ6L0hBTEhBdjhPdkpnTXZpTWlCZz09Cg==",
-      "url": "https://github.com/WrenLoft/kehai-releases/releases/download/1.0.26/KehaiCompanions_1.0.26_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdWwvck9IeDU0OWsvSkNYbGlGNFZBS0NaSTVrQ3Y2RldhaUJCWW1ScmlCUnJDVTAycmtEOGpUUW9qR1l6dnI0WUt0b1lmN2RYRFJEa2tiTWNkU3lyYWF4VGlVYzM2ZmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzE2NTAwCWZpbGU6S2VoYWkgQ29tcGFuaW9uc18xLjAuMjdfeDY0LXNldHVwLmV4ZQp5MlVEZHRGQkxNU09DNGhNZXZLM1lYdm9PSjFKa3R2ZC9hTUNvL3FIRmdVOGZVbjg5QkRLM1NIcjM2WHZ1K1JibnBPYWUyNGRoQ1QyblA2NXdESUxDZz09Cg==",
+      "url": "https://github.com/WrenLoft/kehai-releases/releases/download/1.0.27/KehaiCompanions_1.0.27_x64-setup.exe"
     }
   }
 }
